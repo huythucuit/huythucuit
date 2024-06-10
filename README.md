@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Huy Thuc from UIT<br><br>🔭 I’m aspiring Database Administrator and Data Engineer</p>
+<p align="left">I'm Huy Thuc from UIT<br><br>🔭 I’m aspiring Software Engineer, Database Administrator and Data Engineer</p>
 
 ###
 
